@@ -1,26 +1,26 @@
 <ul>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Philosophy-Books/blob/master/phl(1).pdf" style="text-decoration:none;">The Problems of Philosophy</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Philosophy-Books/blob/master/phl(2).pdf" style="text-decoration:none;">The Consolation of Philosophy</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Philosophy-Books/blob/master/phl(3).pdf" style="text-decoration:none;">A Discourse on the Method of Correctly Conducting One's Reason and Seeking Truth in the Sciences</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Philosophy-Books/blob/master/phl(4).pdf" style="text-decoration:none;">Meditations On First Philosophy  </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Philosophy-Books/blob/master/phl(5).pdf" style="text-decoration:none;">An Enquiry Concerning Human Understanding</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Philosophy-Books/blob/master/phl(6).pdf" style="text-decoration:none;">A Little History of Philosophy </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Philosophy-Books/blob/master/phl(7).pdf" style="text-decoration:none;">A HISTORY OF WESTERN PHILOSOPHY And Its Connection with Political and Social Circumstances from the Earliest Times to the Present Day</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Kinetics-Books/blob/master/kl(1).pdf" style="text-decoration:none;">Chemical Kinetics and Mechanism</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Kinetics-Books/blob/master/kl(2).pdf" style="text-decoration:none;">An Introduction to Chemical Kinetics</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Kinetics-Books/blob/master/kl(3).pdf" style="text-decoration:none;">Analysis of Kinetic Models of Chemical Reaction Systems</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Kinetics-Books/blob/master/kl(4).pdf" style="text-decoration:none;">Chemical Kinetics: From Molecular Structure to Chemical Reactivity </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Kinetics-Books/blob/master/kl(5).pdf" style="text-decoration:none;">Chemical kinetics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Kinetics-Books/blob/master/kl(6).pdf" style="text-decoration:none;">Chemical and Biological Kinetics </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Kinetics-Books/blob/master/kl(7).pdf" style="text-decoration:none;">Chemical Kinetics and Reaction Dynamics</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Philosophy-Books/blob/master/phl(8).pdf" style="text-decoration:none;">A Treatise of Human Nature</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Philosophy-Books/blob/master/phl(9).pdf" style="text-decoration:none;">Critique of pure reason</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Philosophy-Books/blob/master/phl(10).pdf" style="text-decoration:none;">The World as Will and Representation</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Philosophy-Books/blob/master/phl(11).pdf" style="text-decoration:none;">Sophie's World: A Novel about the History of Philosophy  </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Philosophy-Books/blob/master/phl(12).pdf" style="text-decoration:none;">The Gay Science</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Philosophy-Books/blob/master/phl(13).pdf" style="text-decoration:none;">Beyond Good and Evil</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Philosophy-Books/blob/master/phl(14).pdf" style="text-decoration:none;">Thus Spoke Zarathustra</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Kinetics-Books/blob/master/kl(8).pdf" style="text-decoration:none;">Chemical Kinetics of Gas Reactions</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Kinetics-Books/blob/master/kl(9).pdf" style="text-decoration:none;">Chemical Kinetics with Mathcad and Maple</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Kinetics-Books/blob/master/kl(10).rar" style="text-decoration:none;">Chemical Kinetics. Fundamentals and New Developments</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Kinetics-Books/blob/master/kl(11).pdf" style="text-decoration:none;">Enzyme Kinetics: A Modern Approach  </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Kinetics-Books/blob/master/kl(12).pdf" style="text-decoration:none;">Fundamental Chemical Kinetics: An Explanatory Introduction to the Concepts</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Kinetics-Books/blob/master/kl(13).pdf" style="text-decoration:none;">Fundamentals of Enzyme Kinetics</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Kinetics-Books/blob/master/kl(14).pdf" style="text-decoration:none;">Chemical Kinetics of the Gas Phase Combustion of Fuels</a></b></li>  
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Philosophy-Books/blob/master/phl(15).pdf" style="text-decoration:none;">The Nicomachean Ethics of Aristotle</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Kinetics-Books/blob/master/kl(15).pdf" style="text-decoration:none;">Introduction to Chemical Engineering Kinetics and Reactor Design</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Philosophy-Books/blob/master/phl(16).pdf" style="text-decoration:none;">Being and Time</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Philosophy-Books/blob/master/phl(17).pdf" style="text-decoration:none;">Being and Nothingness: An Essay on Phenomenological Ontology</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Philosophy-Books/blob/master/phl(18).pdf" style="text-decoration:none;">On the Genealogy of Morality </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Philosophy-Books/blob/master/phl(19).pdf" style="text-decoration:none;">The Leviathan </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Philosophy-Books/blob/master/phl(20).pdf" style="text-decoration:none;">An Essay Concerning Human Understanding</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Kinetics-Books/blob/master/kl(16).pdf" style="text-decoration:none;">Comprehensive Chemical Kinetics: Modeling of chemical reactions</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Kinetics-Books/blob/master/kl(17).pdf" style="text-decoration:none;">Physical Chemistry III: Chemical Kinetics </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Kinetics-Books/blob/master/kl(18).pdf" style="text-decoration:none;">Reaction Kinetics for Chemical Engineers </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Kinetics-Books/blob/master/kl(19).pdf" style="text-decoration:none;">Reaction Kinetics: Exercises, Programs and Theorems </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Kinetics-Books/blob/master/kl(20).pdf" style="text-decoration:none;">Predictive Chemical Kinetics: Enabling Automatic Mechanism Generation and Evaluation</a></b></li>
                              
   </ul>
